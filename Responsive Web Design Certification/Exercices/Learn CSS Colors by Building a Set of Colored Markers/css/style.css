@@ -21,6 +21,7 @@ h1 {
   opacity: 50%;
   border-left-width: 10px;
   border-left-style: solid;
+  border-left-color: black;
 }
 
 .cap {
