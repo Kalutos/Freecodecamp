@@ -26,6 +26,11 @@ h1 {
   height: 25px;
 }
 
+.cap,
+.sleeve {
+  display: inline-block;
+}
+
 .red {
   background: linear-gradient(
     rgb(122, 74, 14),
