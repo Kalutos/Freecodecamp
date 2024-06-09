@@ -41,6 +41,7 @@
   border-top-right-radius: 25px;
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 60px;
+  transform: rotate(-0.2deg);
   margin: auto;
   filter: blur(2px);
 }
