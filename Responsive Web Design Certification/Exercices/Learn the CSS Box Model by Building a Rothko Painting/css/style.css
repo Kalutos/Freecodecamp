@@ -1,5 +1,5 @@
 .canvas {
-  width: 501px;
+  width: 500px;
   height: 600px;
   background-color: #4d0f00;
   overflow: hidden;
@@ -20,7 +20,7 @@
   width: 475px;
   height: 200px;
   background-color: #8f0401;
-  margin: auto;
+  margin: 0 auto 20px;
 }
 .three {
   width: 91%;
