@@ -4,5 +4,6 @@
   background-color: #4d0f00;
 }
 .frame {
+  width: 500px;
   border: 50px solid black;
 }
