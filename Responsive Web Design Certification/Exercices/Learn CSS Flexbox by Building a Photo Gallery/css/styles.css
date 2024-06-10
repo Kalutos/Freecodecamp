@@ -16,6 +16,7 @@ body {
 }
 .gallery {
   display: flex;
+  flex-direction: row;
 }
 .gallery img {
   width: 100%;
